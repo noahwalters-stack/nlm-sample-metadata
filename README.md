@@ -1,2 +1,3 @@
 # nlm-sample-metadata
-A sample of metadata created using the NLM classification system
+This is a small project sampling metadata created using the NLM classification system.
+Overview:
