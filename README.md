@@ -10,4 +10,4 @@ WM section, which relates to psychiatry, but one fell under the WS section due t
 classification, I reviewed the related MeSH terms and the summaries of all of the publications to figure which classification best represented the aims of
 each work. I attached an abstract to each work that further justifies my classification choices.
 
-I appreciate your review of this small sample project, and I look forward to hearing back from your organization.
+I appreciate your review of this small sample project, I hope that you find this project has adequately demonstrated my capabilities and I look forward to hearing back from your organization.
