@@ -2,9 +2,7 @@
 This is a small project demonstrating my capability in creating metadata using the NLM classification system.
 
 Text selection:
-For this project, I selected two research publications and one book. I began with "The Matter With Things," of which I was already aware. Knowing the subject
-matter helped with classifying it. Next, I consulted the National Library of Medicine's PubMed engine to find two additional publications. I selected two that
-I personally considered interesting.
+For this project, I selected two research publications and one book (these can be found in the records folder). I began with "The Matter With Things," of which I was already aware. Knowing the subject matter helped with classifying it. Next, I consulted the National Library of Medicine's PubMed engine to find two additional publications. I selected two that I personally considered interesting.
 
 Classification process:
 Next, I utilized the NLM's Classification 2025 Winter Edition to find schedules that aligned with the topics in my publications. Two of them fall under the
